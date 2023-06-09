@@ -1,3 +1,5 @@
-let select= document.querySelector("#select");
-let divTotal = document.querySelector("#.total");
-let cantidad = document.querySelector(".cantidad");
+var cantidad = document.getElementById("cantidad");
+var categoria = document.getElementById("categoria");
+
+var cantidad = document.getElementById("cantidad").Value;
+var categoria = document.getElementById("categoria").value;
